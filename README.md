@@ -159,9 +159,7 @@ I'm a passionate <strong>Software Engineer</strong> with expertise in <strong>Fu
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=F48024" alt="StackOverflow"/>
   </a>
   
-  <a href="https://instagram.com/maazali1612" target="_blank" class="hover:scale-125 transition-transform">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt="Instagram"/>
-  </a>
+
 </div>
 
 <p align="center">
